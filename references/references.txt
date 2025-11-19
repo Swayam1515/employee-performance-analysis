@@ -20,3 +20,5 @@
 
 7. Job Satisfaction and Employee Engagement Research  
    Source: Harvard Business Review, Gallup Workplace Studies
+
+8. This  contains my complete Employee Performance Analysis project for the Certified Data Scientist credential. All notebooks are validated and aligned with IABAC guidelines. GitHub repo :- https://github.com/Swayam1515/employee-performance-analysis
